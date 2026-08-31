@@ -22,13 +22,10 @@ YYYY-MM-DD-topic.md
 
 每场记录依次包含：主问题、回答、点评、递进追问、追问回答和核心总结。
 
-## 进行中
-
-- [PI 数字环路滤波器的零点](training/2026-08-31-pi-filter-zero.md) — 等待主问题回答
-
 ## 已完成练习
 
 1. [PI 跟踪恒定频偏](training/2026-08-24-pi-frequency-offset-tracking.md)
 2. [CDR 为什么需要比例路径和积分路径](training/2026-08-26-cdr-proportional-integral-paths.md)
 3. [PI 环路滤波器的即时修正与状态记忆](training/2026-08-28-pi-filter-state-memory.md)
 4. [数字累加器与 z=1 极点](training/2026-08-29-digital-accumulator-z1-pole.md)
+5. [PI 数字环路滤波器的零点](training/2026-08-31-pi-filter-zero.md)
