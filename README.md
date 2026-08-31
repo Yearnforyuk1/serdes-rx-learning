@@ -22,6 +22,10 @@ YYYY-MM-DD-topic.md
 
 每场记录依次包含：主问题、回答、点评、递进追问、追问回答和核心总结。
 
+## 进行中
+
+- [PI 数字环路滤波器的零点](training/2026-08-31-pi-filter-zero.md) — 等待主问题回答
+
 ## 已完成练习
 
 1. [PI 跟踪恒定频偏](training/2026-08-24-pi-frequency-offset-tracking.md)
