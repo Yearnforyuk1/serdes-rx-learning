@@ -24,7 +24,7 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
-- [PEX 时钟 Buffer 异常：Debug 面试训练](training/2026-09-04-pex-clock-buffer-debug-interview.md) — 等待主问题回答
+暂无。
 
 ## 已完成练习
 
@@ -34,3 +34,7 @@ YYYY-MM-DD-topic.md
 4. [数字累加器与 z=1 极点](training/2026-08-29-digital-accumulator-z1-pole.md)
 5. [PI 数字环路滤波器的零点](training/2026-08-31-pi-filter-zero.md)
 6. [半速率 DFE 的第一抽头反馈时序](training/2026-09-02-half-rate-dfe-h1-timing.md)
+
+## 已归档训练
+
+- [PEX 时钟 Buffer 异常：Debug 面试训练](training/2026-09-04-pex-clock-buffer-debug-interview.md) — 问题已解决，用户暂不作答
