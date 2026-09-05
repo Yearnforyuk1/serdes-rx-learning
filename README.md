@@ -24,7 +24,7 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
-暂无。
+- [CDR 积分器：小数位不足会发生什么？](training/2026-09-05-cdr-integrator-fractional-bits.md) — 等待主问题回答；周末场次已提前发题
 
 ## 已完成练习
 
