@@ -24,17 +24,18 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
-- [CDR 离散闭环：误差差分方程](training/2026-09-07-cdr-closed-loop-difference.md) — 等待主问题回答
+暂无。
 
 ## 已完成练习
 
-7. [CDR 积分器：小数位不足会发生什么？](training/2026-09-05-cdr-integrator-fractional-bits.md)
 1. [PI 跟踪恒定频偏](training/2026-08-24-pi-frequency-offset-tracking.md)
 2. [CDR 为什么需要比例路径和积分路径](training/2026-08-26-cdr-proportional-integral-paths.md)
 3. [PI 环路滤波器的即时修正与状态记忆](training/2026-08-28-pi-filter-state-memory.md)
 4. [数字累加器与 z=1 极点](training/2026-08-29-digital-accumulator-z1-pole.md)
 5. [PI 数字环路滤波器的零点](training/2026-08-31-pi-filter-zero.md)
 6. [半速率 DFE 的第一抽头反馈时序](training/2026-09-02-half-rate-dfe-h1-timing.md)
+7. [CDR 积分器：小数位不足会发生什么？](training/2026-09-05-cdr-integrator-fractional-bits.md)
+8. [CDR 离散闭环：误差差分方程](training/2026-09-07-cdr-closed-loop-difference.md)
 
 ## 已归档训练
 
