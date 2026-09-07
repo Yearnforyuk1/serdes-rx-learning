@@ -24,7 +24,7 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
-暂无。
+- [CDR 离散闭环：误差差分方程](training/2026-09-07-cdr-closed-loop-difference.md) — 等待主问题回答
 
 ## 已完成练习
 
