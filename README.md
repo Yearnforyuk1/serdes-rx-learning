@@ -24,7 +24,7 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
-暂无。
+- [时钟过零斜率：电压噪声如何变成时间抖动](training/2026-09-11-clock-slope-noise-jitter.md) — 等待主问题回答
 
 ## 已完成练习
 
