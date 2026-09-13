@@ -24,7 +24,7 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
-- [CDR 闭环极点与稳定边界：Z 域分析](training/2026-09-13-cdr-closed-loop-poles-stability.md) — 等待主问题回答
+- [CDR 闭环极点与稳定边界：Z 域分析](training/2026-09-13-cdr-closed-loop-poles-stability.md) — 等待递进追问回答
 - [时钟过零斜率：电压噪声如何变成时间抖动](training/2026-09-11-clock-slope-noise-jitter.md) — 等待主问题回答
 
 ## 已完成练习
