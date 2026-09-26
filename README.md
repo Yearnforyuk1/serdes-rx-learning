@@ -24,6 +24,7 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
+- [PEX 后 16G 时钟链路异常：Debug 面试训练](training/2026-09-26-pex-clock-buffer-debug.md) — 等待主问题回答
 - [时钟过零斜率：电压噪声如何变成时间抖动](training/2026-09-11-clock-slope-noise-jitter.md) — 等待主问题回答
 - [CDR 环路带宽：从 Kp/Ki 到 MHz](training/2026-09-14-cdr-loop-bandwidth.md) — 等待主问题回答
 
