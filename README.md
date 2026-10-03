@@ -24,6 +24,7 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
+- [CDR 定点量化：小增量与状态保持](training/2026-10-03-cdr-fixed-point-quantization.md) — 等待主问题回答
 - [CDR 定点量化与饱和](training/2026-10-02-cdr-quantization-saturation.md) — 等待主问题回答
 - [S 参数 NPORT 与被动性](training/2026-09-30-sparameter-nport-passivity.md) — 等待主问题回答
 - [PEX 后 16G 时钟链路异常：Debug 面试训练](training/2026-09-26-pex-clock-buffer-debug.md) — 等待主问题回答
