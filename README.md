@@ -24,6 +24,7 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
+- [PEX 后 16G 时钟 Buffer 异常：项目面试表达](training/2026-10-05-project-pex-clock-buffer-interview.md) — 等待主问题回答
 - [CDR 定点量化：小增量与状态保持](training/2026-10-03-cdr-fixed-point-quantization.md) — 等待主问题回答
 - [CDR 定点量化与饱和](training/2026-10-02-cdr-quantization-saturation.md) — 等待主问题回答
 - [S 参数 NPORT 与被动性](training/2026-09-30-sparameter-nport-passivity.md) — 等待主问题回答
