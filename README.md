@@ -4,6 +4,7 @@
 
 ## 训练主题
 
+- AFE（电 RX 与光 RX）：当前重点，模拟 IC 基础、放大器、噪声、反馈、CTLE、TIA 与工程验证
 - CDR 与数字环路滤波器
 - 半速率 DFE
 - Phase Interpolator（PI）
@@ -24,6 +25,7 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
+- [AFE 基础：共源放大级的增益与带宽](training/2026-11-21-afe-gain-bandwidth.md) — 等待主问题回答
 - [PEX 后 16G 时钟 Buffer 异常：项目面试表达](training/2026-10-05-project-pex-clock-buffer-interview.md) — 等待主问题回答
 - [CDR 定点量化：小增量与状态保持](training/2026-10-03-cdr-fixed-point-quantization.md) — 等待主问题回答
 - [CDR 定点量化与饱和](training/2026-10-02-cdr-quantization-saturation.md) — 等待主问题回答
