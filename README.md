@@ -25,7 +25,6 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
-- [AFE 基础：共源放大级的增益与带宽](training/2026-11-21-afe-gain-bandwidth.md) — 等待主问题回答
 - [PEX 后 16G 时钟 Buffer 异常：项目面试表达](training/2026-10-05-project-pex-clock-buffer-interview.md) — 等待主问题回答
 - [CDR 定点量化：小增量与状态保持](training/2026-10-03-cdr-fixed-point-quantization.md) — 等待主问题回答
 - [CDR 定点量化与饱和](training/2026-10-02-cdr-quantization-saturation.md) — 等待主问题回答
@@ -45,6 +44,7 @@ YYYY-MM-DD-topic.md
 7. [CDR 积分器：小数位不足会发生什么？](training/2026-09-05-cdr-integrator-fractional-bits.md)
 8. [CDR 离散闭环：误差差分方程](training/2026-09-07-cdr-closed-loop-difference.md)
 9. [CDR 闭环极点与稳定边界：Z 域分析](training/2026-09-13-cdr-closed-loop-poles-stability.md)
+10. [AFE 基础：共源放大级的增益与带宽](training/2026-11-21-afe-gain-bandwidth.md) — 主问题 8/10，追问 6.5/10
 
 ## 已归档训练
 
