@@ -25,7 +25,6 @@ YYYY-MM-DD-topic.md
 
 ## 进行中
 
-- [电 RX AFE：源极退化 CTLE 的零极点与补偿](training/2026-11-25-ctle-peaking.md) — 等待主问题回答
 - [PEX 后 16G 时钟 Buffer 异常：项目面试表达](training/2026-10-05-project-pex-clock-buffer-interview.md) — 等待主问题回答
 - [CDR 定点量化：小增量与状态保持](training/2026-10-03-cdr-fixed-point-quantization.md) — 等待主问题回答
 - [CDR 定点量化与饱和](training/2026-10-02-cdr-quantization-saturation.md) — 等待主问题回答
@@ -48,6 +47,8 @@ YYYY-MM-DD-topic.md
 10. [AFE 基础：共源放大级的增益与带宽](training/2026-11-21-afe-gain-bandwidth.md) — 主问题 8/10，追问 6.5/10
 
 11. [AFE 基础：源极退化与增益鲁棒性](training/2026-11-23-afe-source-degeneration.md) — 主问题 9.2/10，追问 9/10
+
+12. [电 RX AFE：源极退化 CTLE 的零极点与补偿](training/2026-11-25-ctle-peaking.md) — 主问题 8.8/10，追问 9.5/10
 
 ## 已归档训练
 
